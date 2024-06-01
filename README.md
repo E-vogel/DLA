@@ -40,3 +40,6 @@ Draws the attached particles as branched line segments.
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=E-vogel/DLA&file=DLA_lighting.m)
 
 ![DLA_lighting](https://github.com/E-vogel/DLA/assets/170056861/abc516c9-a10d-4591-8800-63733162beb9)
+
+## Reference
+Witten, T. A., & Sander, L. M. (1983). "Diffusion-limited aggregation". Physical Review B, 27(9), 5686-5697.
